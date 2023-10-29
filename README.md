@@ -40,7 +40,7 @@ I expand my knowledge through continuous learning and professional development ð
 ## ðŸ§  My stack
 
 - Python
-- Django, DRF, FastAPI
+- FastAPI, Django, DRF
 - SQL (PostgreSQL, SQLite)
 - NoSQL (Redis)
 - Docker, docker-compose
