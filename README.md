@@ -51,10 +51,10 @@
 
 Python backend developer 🐍<br>
 I am passionate about writing **clean**, **idiomatic** and **reusable** Python code 🌱 <br>
+
+<!-- 
 I expand my knowledge through continuous learning and professional development 📚
 
-
-<!-- Stack section -->
 ## 🧠 My stack
 
 - Python
@@ -64,3 +64,4 @@ I expand my knowledge through continuous learning and professional development �
 - Broker (RabbitMQ)
 - Docker, docker-compose
 - ...
+-->
