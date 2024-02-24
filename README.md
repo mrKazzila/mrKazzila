@@ -19,29 +19,30 @@
       alt="linkedin badge"
     />
   </a>
-  
+
   <a href="mailto:kazzilacareer@gmail.com?subject=[GitHub]%20🔥%20Contact%20us&body=Hi%20Ilya%2C%0A%0AI%27m%20coming%20to%20you%20today%20after%20seeing%20your%20GitHub%20profile%20for%20...">
     <img 
       src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"
       alt="e‑mail badge"
     />
   </a>
-  
+
   <a href="https://mrkazzila.github.io/resume/">
     <img 
       src="https://img.shields.io/badge/resume-cv?style=for-the-badge&logo=readme&logoColor=white"
       alt="resume cv badge"
     />
   </a>
-  
+
   <a href="https://mrkazzila.github.io/portfolio/">
     <img 
-      src="https://img.shields.io/badge/portfolio-my?style=for-the-badge&logo=awesomelists&logoColor=white&color=E4405F"
+      src="https://img.shields.io/badge/portfolio-my?style=for-the-badge&logo=awesomelists&logoColor=d9d9d9&color=8c52ff"
       alt="my portfolio badge"
     />
   </a>
 
 </p>
+<!-- END Badges -->
 
 <hr>
 
@@ -51,6 +52,7 @@
 
 Python backend developer 🐍<br>
 I am passionate about writing **clean**, **idiomatic** and **reusable** Python code 🌱 <br>
+<!-- END About -->
 
 <!-- 
 I expand my knowledge through continuous learning and professional development 📚
