@@ -27,7 +27,7 @@
     />
   </a>
 
-  <a href="https://mrkazzila.github.io/resume/">
+  <a href="https://mrkazzila.com/">
     <img 
       src="https://img.shields.io/badge/resume-cv?style=for-the-badge&logo=readme&logoColor=white"
       alt="resume cv badge"
@@ -52,6 +52,7 @@
 
 Python backend developer 🐍<br>
 I am passionate about writing **clean**, **idiomatic** and **reusable** Python code 🌱 <br>
+
 <!-- END About -->
 
 <!-- 
@@ -60,10 +61,10 @@ I expand my knowledge through continuous learning and professional development �
 ## 🧠 My stack
 
 - Python
-- FastAPI, Django, DRF
-- SQL (PostgreSQL, SQLite)
-- NoSQL (MongoDB, Redis)
-- Broker (RabbitMQ)
-- Docker, docker-compose
+- FastAPI, asyncio, Typer, Pydantic, Django
+- SQL (PostgreSQL, SQLite, CockroachDB, SQLAlchemy, alembic)
+- NoSQL (etcd, MongoDB, redis)
+- Broker (Celery, RabbitMQ)
+- Docker, docker-compose, Nginx, Crontab, systemd
 - ...
 -->
