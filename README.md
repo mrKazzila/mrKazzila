@@ -67,4 +67,10 @@ I expand my knowledge through continuous learning and professional development ð
 - Broker (Celery, RabbitMQ)
 - Docker, docker-compose, Nginx, Crontab, systemd
 - ...
+
+My contacts:
+Email: kazzilacareer@gmail.com
+Telegram: @mrKazzila || https://t.me/mrKazzila
+Web-site: https://mrkazzila.com
+GitHub: https://github.com/mrKazzila
 -->
