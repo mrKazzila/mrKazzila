@@ -53,6 +53,13 @@
 Python backend developer 🐍<br>
 I am passionate about writing **clean**, **idiomatic** and **reusable** Python code 🌱 <br>
 
+
+## Open to new opportunities 🔍🧗
+
+### My contacts:<br>
+Email: kazzilacareer@gmail.com<br>
+Telegram: [@mrKazzila](https://t.me/mrKazzila)
+
 <!-- END About -->
 
 <!-- 
