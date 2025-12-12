@@ -27,19 +27,19 @@
     />
   </a>
 
-  <a href="https://mrkazzila.com/">
+  <!-- <a href="https://mrkazzila.com/">
     <img 
       src="https://img.shields.io/badge/resume-cv?style=for-the-badge&logo=readme&logoColor=white"
       alt="resume cv badge"
     />
-  </a>
+  </a> -->
 
-  <a href="https://mrkazzila.github.io/portfolio/">
+  <!--<a href="https://mrkazzila.github.io/portfolio/">
     <img 
       src="https://img.shields.io/badge/portfolio-my?style=for-the-badge&logo=awesomelists&logoColor=d9d9d9&color=8c52ff"
       alt="my portfolio badge"
     />
-  </a>
+  </a>-->
 
 </p>
 <!-- END Badges -->
