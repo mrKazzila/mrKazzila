@@ -12,8 +12,8 @@
 
 Python Backend Developer (FastAPI • PostgreSQL • async)
 
-- Building and maintaining backend services, internal tooling, tests, and CI quality gates.
-- Currently: open to Python backend roles; keeping sharp with SQL/PostgreSQL + DSA.
+- Building and maintaining backend services, internal tooling, tests
+- Currently: open to Python backend roles
 
 ### Contacts
 Telegram: https://t.me/mrKazzila  
