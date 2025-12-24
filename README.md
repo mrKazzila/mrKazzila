@@ -19,4 +19,3 @@ in Computer Science and participating in open-source projects.
 - Telegram: https://t.me/mrKazzila
 - Email: kazzilacareer@gmail.com
 - LinkedIn: https://www.linkedin.com/in/i-kazakov/
-- GitHub: https://github.com/mrKazzila
