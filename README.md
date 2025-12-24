@@ -10,12 +10,13 @@
 <br>
 
 
-Python Backend Developer (FastAPI • PostgreSQL • async)
+Python backend developer focused on building and maintaining backend services (FastAPI • PostgreSQL • async). Contribute to
+architecture improvements, test coverage growth, and internal tooling development. Expanding expertise
+in Computer Science and participating in open-source projects.
 
-- Building and maintaining backend services, internal tooling, tests
-- Currently: open to Python backend roles
 
 ### Contacts
-Telegram: https://t.me/mrKazzila  
-Email: kazzilacareer@gmail.com  
-GitHub: https://github.com/mrKazzila
+- Telegram: https://t.me/mrKazzila
+- Email: kazzilacareer@gmail.com
+- LinkedIn: https://www.linkedin.com/in/i-kazakov/
+- GitHub: https://github.com/mrKazzila
