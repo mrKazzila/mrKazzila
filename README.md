@@ -11,7 +11,7 @@
 Python backend developer focused on reliable backend services, async Python, Clean Architecture, and production-oriented pet projects.
 
 I work with FastAPI, gRPC, PostgreSQL, Redis, Kafka, SQLAlchemy, Docker, and observability tooling.  
-I am interested in distributed systems, backend reliability, DDD, RAG, local LLM tooling, and developer automation.
+I am interested in distributed systems, backend reliability, RAG, local LLM tooling and developer automation.
 
 Currently building:
 
