@@ -1,27 +1,85 @@
 <h1 align="center">Hi there! I'm Ilya 👋</h1>
 
 <p align="center">
-  Python Backend Developer · FastAPI · PostgreSQL · async · gRPC · Kafka
+  AI Backend Engineer · Python · FastAPI · RAG · LLM Agents · PostgreSQL · Kafka
 </p>
 
 ---
 
 ## About
 
-Python backend developer focused on reliable backend services, async Python, Clean Architecture, and production-oriented pet projects.
+I'm a Python Backend Developer / AI Backend Engineer with 4+ years of commercial experience in backend development, automation, and reliability engineering.
 
-I work with FastAPI, gRPC, PostgreSQL, Redis, Kafka, SQLAlchemy, Docker, and observability tooling.  
-I am interested in distributed systems, backend reliability, RAG, local LLM tooling and DevEx.
+I build production-oriented backend services and AI-powered systems with Python, FastAPI, PostgreSQL, Redis, Kafka, gRPC, Docker, and async Python.
 
-Currently building:
+My current focus is AI backend engineering:
 
-- **URL Shortener gRPC API** — production-like URL shortener with gRPC/protobuf, PostgreSQL, Redis, Kafka/FastStream, SQLAlchemy async, Alembic, Dishka, Docker Compose, and observability stack.
-- **AI Docs Assistant** — local FastAPI + RAG service for API documentation generation and semantic search using Ollama, Qdrant, CrewAI, LangChain, and layered architecture.
-- **OpenWRT Travel Toolkit** — shell toolkit for OpenWrt travel routers, focused on safe networking automation, Wi-Fi/VPN workflows, diagnostics, and operator-friendly CLI UX.
+- RAG pipelines and semantic search
+- Local LLM tooling with Ollama
+- Vector databases and embeddings
+- LLM agents and document generation workflows
+- Clean Architecture for AI services
+- Event-driven backend systems and reliable async processing
+
+I like building systems where AI features are not just demos, but properly structured backend services with clear boundaries, persistence, observability, and failure handling.
+
+---
+
+## Featured Projects
+
+### AI Docs Assistant
+
+Local AI backend service for API documentation generation and semantic search.
+
+Built with FastAPI, Ollama, Qdrant, CrewAI, LangChain, Docker Compose, and layered architecture.
+
+Key features:
+
+- RAG pipeline over Markdown documentation
+- Semantic search with Qdrant
+- Local LLM and embeddings through Ollama
+- Agent-based documentation generation and validation
+- Clean Architecture structure: domain, application, infrastructure, presentation
+- API endpoints for generation, search, and health checks
+
+Repository: https://github.com/mrKazzila/ai-docs-assistant
+
+---
+
+### URL Shortener gRPC API
+
+Production-oriented URL shortener focused on event-driven architecture and reliability.
+
+Built with gRPC/protobuf, PostgreSQL, Redis, Kafka/FastStream, SQLAlchemy async, Alembic, Dishka, Docker Compose, and observability tooling.
+
+Key features:
+
+- gRPC API for service-to-service communication
+- Immediate response path through Redis
+- Kafka-based async persistence pipeline
+- Transactional inbox and deduplication for idempotent writes
+- Clean Architecture, repositories, unit of work, and DI
+- Docker Compose local environment
+
+Repository: https://github.com/mrKazzila/shortener_url_api
+
+---
 
 ## Stack
 
-`Python` · `FastAPI` · `gRPC` · `PostgreSQL` · `Redis` · `Kafka` · `SQLAlchemy` · `Alembic` · `Docker` · `pytest` · `Clean Architecture` · `Qdrant` · `Ollama` · `RAG`
+### Backend
+
+`Python` · `FastAPI` · `gRPC` · `PostgreSQL` · `Redis` · `Kafka` · `SQLAlchemy` · `Alembic` · `Docker` · `pytest` · `asyncio`
+
+### AI / LLM
+
+`RAG` · `LLM Agents` · `Qdrant` · `Ollama` · `LangChain` · `CrewAI` · `Embeddings` · `Semantic Search`
+
+### Architecture & Reliability
+
+`Clean Architecture` · `Event-Driven Architecture` · `Transactional Inbox` · `Deduplication` · `Unit of Work` · `Observability` · `Linux`
+
+---
 
 ## Contacts
 
