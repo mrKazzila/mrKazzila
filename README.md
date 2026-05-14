@@ -8,11 +8,11 @@
 
 ## About
 
-I'm a Python Backend Developer / AI Backend Engineer with 4+ years of commercial experience in backend development, automation, and reliability engineering.
+I'm a Python Backend Developer / AI Backend Engineer with 4+ years of commercial experience in backend development and automation.
 
 
 ## Contacts
 
-- LinkedIn: https://www.linkedin.com/in/i-kazakov/
 - Email: kazzilacareer@gmail.com
+- LinkedIn: https://www.linkedin.com/in/i-kazakov/
 - Telegram: https://t.me/mrKazzila
