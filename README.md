@@ -14,5 +14,5 @@ I'm a Python Backend Developer / AI Backend Engineer with 4+ years of commercial
 ## Contacts
 
 - Email: kazzilacareer@gmail.com
-- LinkedIn: https://www.linkedin.com/in/i-kazakov/
+<!--- LinkedIn: https://www.linkedin.com/in/i-kazakov/ -->
 - Telegram: https://t.me/mrKazzila
