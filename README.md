@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Ilya 👋</h1>
 
 <p align="center">
-  AI Backend Engineer · Python · FastAPI · RAG · LLM Agents · PostgreSQL · Kafka
+  Python Backend Developer | FastAPI · PostgreSQL · Kafka · RAG · LLM Agents
 </p>
 
 ---
