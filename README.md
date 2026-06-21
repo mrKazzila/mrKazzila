@@ -1,15 +1,19 @@
-<h1 align="center">Hi there! I'm Ilya 👋</h1>
+# Hi there! I'm Ilya 👋
 
-<p align="center">
-  Python Backend Developer | FastAPI · PostgreSQL · Kafka · RAG · LLM Agents
-</p>
+**Python Backend Developer**  
+FastAPI · PostgreSQL · Redis · Kafka · gRPC · Docker · Linux
 
 ---
 
 ## About
 
-I'm a Python Backend Developer / AI Backend Engineer with 4+ years of commercial experience in backend development and automation.
+I'm a Python Backend Developer with **4+ years of commercial experience** in backend development and automation.
 
+My main focus is building backend services, APIs, integrations, async workflows, and reliable server-side systems.
+
+I'm also interested in **AI backend engineering**: RAG systems, semantic search, LLM-powered tools, and local AI infrastructure.
+
+---
 
 ## Contacts
 
